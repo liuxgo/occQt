@@ -27,13 +27,13 @@
   
   * `cmake-gui`配置
     
-    ![](https://github.com/liuxgo/occQt/blob/master/assets/2023-01-03-15-42-21-image.png)
+    ![](assets/2023-01-03-15-42-21-image.png)
     
-    ![](https://github.com/liuxgo/occQt/blob/master/assets/2023-01-03-15-43-56-image.png)
+    ![](assets/2023-01-03-15-43-56-image.png)
   
   * 执行`make install`安装至`C:/Program Files (x86)/OCCT`
     
-    ![](https://github.com/liuxgo/occQt/blob/master/assets/2023-01-03-15-47-52-image.png)
+    ![](assets/2023-01-03-15-47-52-image.png)
 
 ##### 2. QT项目CMakeLists.txt
 
