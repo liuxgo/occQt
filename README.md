@@ -23,7 +23,7 @@
   
   * 准备`OOCT源码和第三方源码`
     
-    ![](https://github.com/liuxgo/occQt/blob/master/assets/2023-01-03-15-40-15-image.png)
+    ![](/assets/2023-01-03-15-40-15-image.png)
   
   * `cmake-gui`配置
     
