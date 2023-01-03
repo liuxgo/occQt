@@ -2,6 +2,9 @@
   "cmake.cmakePath": "C:/Qt/Tools/CMake_64/bin/cmake.exe",
   "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
   "files.associations": {
-    "qtranslator": "cpp"
+    "qtranslator": "cpp",
+    "qapplication": "cpp",
+    "qmainwindow": "cpp",
+    "qopenglwidget": "cpp"
   }
 }
