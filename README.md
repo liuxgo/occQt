@@ -1,6 +1,6 @@
 #### QT + OpenCASCADE + CMake
 
-* 使用CMake编译[occQt](https://github.com/eryar/occQt)
+* 使用CMake编译[occQt: https://github.com/eryar/occQt](https://github.com/eryar/occQt) 
 
 ##### 1. mingw编译OpenCASCADE
 
