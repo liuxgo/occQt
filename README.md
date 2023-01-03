@@ -1,5 +1,7 @@
 #### QT + OpenCASCADE + CMake
 
+* 使用CMake编译[occQt](https://github.com/eryar/occQt)
+
 ##### 1. mingw编译OpenCASCADE
 
 * 安装[MSYS2](https://gitlab.yg.cn/0005/web-weekly-report/-/blob/master/02.%20C&C++/03.%20C&C++%E8%B7%A8%E5%B9%B3%E5%8F%B0%E7%BC%96%E8%AF%91.md#2-windows-%E5%AE%89%E8%A3%85%E7%BC%96%E8%AF%91%E7%8E%AF%E5%A2%83)
